@@ -13,13 +13,12 @@
   <a href="https://openai.com"><img alt="OpenAI" height="25" src="https://img.shields.io/badge/OpenAI-161826?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTE4NEQ5IiBzdHJva2Utd2lkdGg9IjEuOSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDIuNiAyMC4xIDcuM3Y5LjRMMTIgMjEuNCAzLjkgMTYuN1Y3LjN6Ii8%2BPHBhdGggZD0iTTEyIDcuNCAxNS45IDkuN3Y0LjZMMTIgMTYuNiA4LjEgMTQuM1Y5Ljd6Ii8%2BPC9nPjwvc3ZnPg%3D%3D" /></a>
   <a href="https://workspace.google.com/products/sheets/"><img alt="Google Sheets" height="25" src="https://img.shields.io/badge/Google%20Sheets-161826?style=flat&logo=googlesheets&logoColor=9184D9" /></a>
   <a href="https://slack.com"><img alt="Slack" height="25" src="https://img.shields.io/badge/Slack-161826?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTE4NEQ5IiBzdHJva2Utd2lkdGg9IjEuOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48cGF0aCBkPSJNOS40IDMuMiA3LjYgMjAuOE0xNi40IDMuMmwtMS44IDE3LjYiLz48cGF0aCBkPSJNMy42IDguOWgxN00zIDE1LjFoMTciLz48L2c%2BPC9zdmc%2B" /></a>
-  <a href="https://github.com/TuguiDragos/n8n-ai-call-agent/blob/main/LICENSE"><img alt="License MIT" height="25" src="https://img.shields.io/badge/License-MIT-161826?style=flat&labelColor=161826" /></a>
+  <a href="https://github.com/popstar2251/n8n-ai-call-agent/blob/main/LICENSE"><img alt="License MIT" height="25" src="https://img.shields.io/badge/License-MIT-161826?style=flat&labelColor=161826" /></a>
   <a href="https://youtu.be/xgDPP_hJ7ms"><img alt="Watch the demo" height="25" src="https://img.shields.io/badge/Watch%20the%20demo-161826?style=flat&logo=youtube&logoColor=9184D9" /></a>
 </p>
 
 <p align="center">
-  <a href="https://tuguidragos.gumroad.com/l/n8n-ai-call-agent"><img alt="Get the workflow on Gumroad" height="48" src="./assets/cta-gumroad.svg" /></a>
-</p>
+  </p>
 
 ---
 
@@ -71,7 +70,7 @@ Deep architectural fixes for full compliance with the n8n v2 engine, plus proper
 ### What it does
 
 - Calls leads with an AI voice that holds a natural conversation
-- Extracts the email from speech, even said as *"tugui dragos at gmail dot com"*
+- Extracts the email from speech, even said as *"name at gmail dot com"*
 - Writes transcript, summary, recording link and interest level to Google Sheets
 - Slack alert on every call, successful or missed
 - Retries and status polling, so a slow call never breaks the run
@@ -195,7 +194,7 @@ This repo is the lite build. It runs on a Google Sheet, which is enough for most
 | **Price** | €58.99 | [on Gumroad](https://tuguidragos.gumroad.com/l/ghl-n8n-vapi-ai-calling-agent), and $230 [on the n8n template library](https://n8n.io/workflows/8339-replace-your-call-center-with-an-ai-agent-using-gohighlevel-ghl-vapi-and-twilio/) |
 
 <p align="center">
-  <a href="https://github.com/TuguiDragos/ghl-n8n-ai-calling-agent"><img alt="See the GoHighLevel version" height="48" src="./assets/cta-upgrade.svg" /></a>
+  <a href="#"><img alt="See the GoHighLevel version" height="48" src="./assets/cta-upgrade.svg" /></a>
 </p>
 
 <br>
@@ -242,7 +241,7 @@ Vapi gives you free minutes each month. Twilio charges a few cents per call. Tes
 
 ## License
 
-MIT. Use it, change it, build on it. Credit stays with the copyright notice. Full terms in [LICENSE](https://github.com/TuguiDragos/n8n-ai-call-agent/blob/main/LICENSE).
+MIT. Use it, change it, build on it. Credit stays with the copyright notice. Full terms in [LICENSE](https://github.com/popstar2251/n8n-ai-call-agent/blob/main/LICENSE).
 
 > **Before you dial.** You are responsible for how you use this. Disclose that the caller is AI where the law requires it, and comply with the rules on automated calling and data handling in your market, TCPA and GDPR included.
 
@@ -250,24 +249,10 @@ MIT. Use it, change it, build on it. Credit stays with the copyright notice. Ful
 
 ---
 
-## About
-
-Built by **Țugui Dragoș** `|QC⟩`. I build automation that runs without supervision: n8n workflows, AI agents, and the quiet machinery behind a business.
-
-<p align="center">
-  <a href="https://www.tuguidragos.com/"><img alt="Website" height="25" src="https://img.shields.io/badge/Website-161826?style=flat&logo=safari&logoColor=9184D9" /></a>
-  <a href="https://n8n.io/creators/tuguidragos/"><img alt="n8n Creator" height="25" src="https://img.shields.io/badge/n8n%20Creator-161826?style=flat&logo=n8n&logoColor=9184D9" /></a>
-  <a href="https://tuguidragos.gumroad.com"><img alt="Gumroad" height="25" src="https://img.shields.io/badge/Gumroad-161826?style=flat&logo=gumroad&logoColor=9184D9" /></a>
-  <a href="https://www.linkedin.com/in/tuguidragos"><img alt="LinkedIn" height="25" src="https://img.shields.io/badge/LinkedIn-161826?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iIzkxODREOSI%2BPHJlY3QgeD0iMi42IiB5PSI4LjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyLjUiIHJ4PSIwLjYiLz48Y2lyY2xlIGN4PSI0LjYiIGN5PSI0LjQiIHI9IjIuNCIvPjxwYXRoIGQ9Ik0xMCA4LjloMy44djEuOGE0LjIgNC4yIDAgMCAxIDMuNy0yYzMgMCA0LjkgMS45IDQuOSA1LjR2Ny4zaC00di02LjZjMC0xLjctLjctMi43LTIuMi0yLjdzLTIuMyAxLTIuMyAyLjd2Ni42SDEweiIvPjwvZz48L3N2Zz4%3D" /></a>
-  <a href="https://github.com/TuguiDragos"><img alt="GitHub" height="25" src="https://img.shields.io/badge/GitHub-161826?style=flat&logo=github&logoColor=9184D9" /></a>
-</p>
-
-Write to **contact@tuguidragos.com** for questions, custom builds or automation work. If this helped, leave a star.
 
 <br>
 
 ---
 
-<p align="center">Built with 🖤 by <a href="https://tuguidragos.com">Țugui Dragoș</a></p>
 
 <!-- n8n AI call workflow, AI phone agent automation, voice call automation with Vapi, Twilio voice workflow, Google Sheets n8n integration, OpenAI smart caller, cold outreach AI bot, no-code SDR system, lead qualification voice AI, call transcription automation, Slack notifications from calls, phone bot with email extraction, automated voice campaigns, conversational AI phone workflow, n8n v2 AI workflow -->
